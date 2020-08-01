@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laex Test Series</string>
+
+
+    <string name="Open">Navbar</string>
+    <string name="Close">Navbar</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="log_out">Logout</string>
+    <string name="edit">edit</string>
+
+</resources>
